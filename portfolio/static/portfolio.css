@@ -1,0 +1,24 @@
+.outer-container{
+    background:linear-gradient(rgba(1, 19, 27, 0.913),rgba(6, 24, 57, 0.906));
+    overflow: hidden;
+    padding:30px;
+    color:white;
+}
+nav{
+    background-color: rgba(1, 19, 27, 0.913);
+    color:white;
+}
+nav li a{
+    color:white;
+}
+.portrait, .col-5{
+    display:grid;
+    place-items:center;
+}
+.items{
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+}
+#col-white{
+    color:white;
+}

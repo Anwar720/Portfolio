@@ -13,12 +13,38 @@ Including another URLconf
     1. Import the include() function: from django.urls import include, path
     2. Add a URL to urlpatterns:  path('blog/', include('blog.urls'))
 """
+# from django.contrib import admin
+# from django.urls import path
+# from quote_generator import views
+# from django.conf.urls.static import static
+# from django.conf import settings
+# from exchange_rate import views as exchangeView
 
-from django.urls import path
-from quote_generator import views
+# urlpatterns = [
+#     path('exchange/',exchangeView.index,name="exchangeView"),
+#     path('admin/',admin.site.urls),
+#     path("", views.index,name='index'),
+#     # path('about/',views.about,name='about'),
+    
+# ]
+
+# urlpatterns += static(settings.MEDIA_URL,document_root=settings.MEDIA_ROOT)
+from django.contrib import admin
+from django.urls import path,include
+# from quote_generator import views as quoteView
+#from portfolio import views as portfolioView
+# from exchange_rate import views as exchangeView
+from django.conf import settings
+# from portfolio import views as portfolioViews
+from portfolio import views
+from django.conf.urls.static import static
 
 urlpatterns = [
-    path("", views.index,name='index'),
-    path('about/',views.about,name='about'),
-    
+    path('admin/', admin.site.urls),
+    path('', views.home,name='home'),
+    # path('exchange/', exchangeView.index, name = "exchangeView"),
+    # path('quotes/', quoteView.index, name = "quoteView"),
+    path('blog/',include('blog.urls'))
 ]
+
+urlpatterns += static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
