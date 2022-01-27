@@ -6,8 +6,10 @@
 
 
 <br>
+
+
 ## <h3>Relaxer App</h3>
-The Relax App calms and lowers the users heart rate by guiding them through a series of breathing exercises where they breathe in, hold their breath and breathe out.<br/>
+// The Relax App calms and lowers the users heart rate by guiding them through a series of breathing exercises where they breathe in, hold their breath and breathe out.<br/>
 
 
 ## <h3>Basic Calculator</h3>
