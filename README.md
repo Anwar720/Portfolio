@@ -18,6 +18,14 @@
  <br />
 <br />
 <br /> 
+<br />
+<br />
+<br /> 
+<br />
+<br />
+<br />
+<br /> 
+<br />
  <h3>Basic Calculator</h3>
 <p><img align="right" alt="gif" src="https://github.com/Anwar720/Portfolio/blob/main/media/portfolio/images/calculator.gif" width="500" height="320"/></p>
 
@@ -34,20 +42,13 @@
 <br /> 
 <br />
 <br />
-<br /> <br />
-<br />
 <br /> 
-<br />
-<br />
  <h3 height="20">Expense Tracker</h3>
 <p><img align="left" alt="gif" src="https://github.com/Anwar720/Portfolio/blob/main/media/portfolio/images/expensetracker.gif" width="500" height="320"/></p>
 <br />
 <br />
 <br /> 
-<br /><br />
-<br />
-<br /> 
-<br />
+
  
 Expense Tracker allows the user to keep track of how much income they generate and how much they spend. It allows the user to add transaction and displays the history of transactions as well as keeping track of their balance.
 <br />
@@ -62,8 +63,7 @@ Expense Tracker allows the user to keep track of how much income they generate a
 <br /> 
 <br />
 <br />
-<br /> 
-<br />
+
 <h3>Memory Cards</h3>
 <p><img align="right" alt="gif" src="https://github.com/Anwar720/Portfolio/blob/main/media/portfolio/images/memorycard.gif" width="500" height="320"/></p>
 
