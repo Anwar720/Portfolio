@@ -22,7 +22,7 @@
 
 <br />
  <h3>Basic Calculator</h3>
-<p><img align="right" alt="gif" src="https://github.com/Anwar720/Portfolio/blob/main/media/portfolio/images/calculator.gif" width="500" height="320"/></p>
+<p><img align="rleft" alt="gif" src="https://github.com/Anwar720/Portfolio/blob/main/media/portfolio/images/calculator.gif" width="500" height="320"/></p>
 
 
 <br />
@@ -56,7 +56,7 @@ Expense Tracker allows the user to keep track of how much income they generate a
 <br />
 
 <h3>Memory Cards</h3>
-<p><img align="right" alt="gif" src="https://github.com/Anwar720/Portfolio/blob/main/media/portfolio/images/memorycard.gif" width="500" height="320"/></p>
+<p><img align="left" alt="gif" src="https://github.com/Anwar720/Portfolio/blob/main/media/portfolio/images/memorycard.gif" width="500" height="320"/></p>
 
 
 <br />
