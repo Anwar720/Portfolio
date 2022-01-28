@@ -25,8 +25,7 @@
 <p><img align="rleft" alt="gif" src="https://github.com/Anwar720/Portfolio/blob/main/media/portfolio/images/calculator.gif" width="500" height="320"/></p>
 
 
-<br />
-<br />
+
 <br /> 
 <br />
 <br />
