@@ -19,7 +19,7 @@
 
 
 <br />
-This the a Basic Calculator that allows the user to perform basic operations such as addition, subtraction, multiplication and division
+> This the a Basic Calculator that allows the user to perform basic operations such as addition, subtraction, multiplication and division
 <br />
 
 ## <h3>Expense Tracker</h3>
