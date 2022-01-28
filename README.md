@@ -11,7 +11,7 @@
  The Relax App calms and lowers the users heart rate by guiding them through a series of breathing exercises where they breathe in, hold their breath and breathe out.
 
 
-
+* * * *
 
 ## <h3>Basic Calculator</h3>
 <p><img align="right" alt="gif" src="https://github.com/Anwar720/Portfolio/blob/main/media/portfolio/images/calculator.gif" width="500" height="320"/></p>
@@ -22,6 +22,7 @@
  This the a Basic Calculator that allows the user to perform basic operations such as addition, subtraction, multiplication and division
 <br />
 
+* * * 
 ## <h3>Expense Tracker</h3>
 <p><img align="left" alt="gif" src="https://github.com/Anwar720/Portfolio/blob/main/media/portfolio/images/expensetracker.gif" width="500" height="320"/></p>
 
