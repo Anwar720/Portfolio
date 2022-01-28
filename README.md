@@ -12,7 +12,9 @@
 
 
 * * * *
-
+<br />
+<br />
+<br />
 ## <h3>Basic Calculator</h3>
 <p><img align="right" alt="gif" src="https://github.com/Anwar720/Portfolio/blob/main/media/portfolio/images/calculator.gif" width="500" height="320"/></p>
 
@@ -23,7 +25,7 @@
 <br />
 
 * * * 
-## <h3>Expense Tracker</h3>
+## <h3 height="20">Expense Tracker</h3>
 <p><img align="left" alt="gif" src="https://github.com/Anwar720/Portfolio/blob/main/media/portfolio/images/expensetracker.gif" width="500" height="320"/></p>
 
 
